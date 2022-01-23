@@ -60,7 +60,8 @@ We need to convert our cleaned pandas dataframe to a tensorflow dataset that TFR
 - Changing the data types of the important features to fit the Tensorflow-Recommender TFRS Library.
 
     - tfds currently does not support float64 so we'll be using int64 or float32 depending on the data.
-    - We'll wrap the pandas dataframe into a tf.data.Dataset object using tf.data.Dataset.from_tensor_slices (To check other options - [here]('https://www.srijan.net/resources/blog/building-a-high-performance-data-pipeline-with-tensorflow#gs.f33srf))
+    - We'll wrap the pandas dataframe into a tf.data.Dataset object using tf.data.Dataset.from_tensor_slices 
+    -   (To check other options - [here]('https://www.srijan.net/resources/blog/building-a-high-performance-data-pipeline-with-tensorflow#gs.f33srf))
 
 
 
