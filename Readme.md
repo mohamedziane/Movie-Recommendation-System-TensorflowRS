@@ -280,7 +280,7 @@ The ranking stage takes the outputs of the retrieval model and fine-tunes them t
 TensorFlow Recommenders (TFRS) - Summary of all model's metrics:
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/modesmetrics.png">
+  <img width="600" height="200" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/modesmetrics.png">
 </p>
  
 
