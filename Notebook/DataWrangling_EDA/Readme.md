@@ -179,54 +179,54 @@ On a rating scale from 1 to 5, both male and female give more "4" ratings
  **(6) What are the most rated movies?**
 
  <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_2.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_2.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_3.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_3.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_4.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_4.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_5.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_5.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_6.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_6.png">
 </p>
 
 
  **(7) What are the most liked Movies?**
 
  <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_1.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7.1.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_2.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7.2.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_3.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7.3.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_4.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7.4.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_5.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7.5.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_6.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7.6.png">
 </p>
 
 
