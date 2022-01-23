@@ -1,7 +1,7 @@
 # Data Wrangling & Exploratory Data Analysis EDA
 
 <p align="center">
-  <img width="800" height="500" src="INSERT">
+  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/8.png">
 </p>
 
 ## Contents:
@@ -143,7 +143,7 @@ Even though mid-week seems to slightly stand out (Wednesday), overall the distri
  **(2) Who, among men and women, watches/rates more movies?**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/2.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/2.png">
 </p>
 
 Looks like male users are rating more movies than females
@@ -151,7 +151,7 @@ Looks like male users are rating more movies than females
  **(3) What age group watches more movies?**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/3.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/3.png">
 </p>
 
 Group ranking by age for watching/rating movies
@@ -163,7 +163,7 @@ Group ranking by age for watching/rating movies
  **(4) What kind of occupation do users have that watch/rate movies the most?**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/4.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/4.png">
 </p>
 
 The 18-24 age group for students lead the way
@@ -171,7 +171,7 @@ The 18-24 age group for students lead the way
  **(5) Let's have more insights between male and female users**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/5.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/5.png">
 </p>
 
 On a rating scale from 1 to 5, both male and female give more "4" ratings
@@ -179,68 +179,68 @@ On a rating scale from 1 to 5, both male and female give more "4" ratings
  **(6) What are the most rated movies?**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_2.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_2.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_3.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_3.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_4.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_4.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_5.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_5.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_6.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/6_6.png">
 </p>
 
 
  **(7) What are the most liked Movies?**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_1.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_1.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_2.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_2.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_3.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_3.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_4.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_4.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_5.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_5.png">
 </p>
 
 <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_6.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/7_6.png">
 </p>
 
 
  **(8) What are the worst movies per rating?**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/8.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/8.png">
 </p>
 
 
  **(9) Is there any relation between the users rate and their geographical location?** 
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/9.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/9.png">
 </p>
 
 California and Texas lead the way. Are the students the group who's also causing such high rates?
@@ -249,7 +249,7 @@ Indeed, students are the group driving the rating in California
  **(10) Whats the most popular Genre in our dataset?**
 
  <p align="center">
-  <img width="800" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/10.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/10.png">
 </p>
 
 We can infer from the above graph that the 3 top most popular Genres are Adventure, Comedy and Drama:
