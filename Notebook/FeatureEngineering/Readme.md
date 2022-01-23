@@ -1,7 +1,7 @@
 # Features Engineering
 
 <p align="center">
-  <img width="1000" height="1000" src="https://www.ismiletechnologies.com/wp-content/uploads/2021/09/Feature-Engineering-in-machine-learning.png">
+  <img width="1000" height="500" src="https://www.ismiletechnologies.com/wp-content/uploads/2021/09/Feature-Engineering-in-machine-learning.png">
 </p>
 
 ## Contents:
