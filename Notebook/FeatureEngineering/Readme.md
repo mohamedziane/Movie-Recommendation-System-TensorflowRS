@@ -32,7 +32,7 @@ Objective: to improve our cleaned Dataframe which was orginally from the Tensorf
 ## 2. Fixing The Existing Tensorflow Dataset (movie_lens/100k-dataset)
 
  <p align="center">
-  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/classes.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/classes.png">
 </p>
 
 The data classification for the "user_occupation_label" looks as expected
