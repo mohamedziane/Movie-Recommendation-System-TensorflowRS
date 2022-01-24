@@ -137,7 +137,7 @@ TFRS can be classified as a relatively new package (several bugs have been repor
  ```
 
 **b) [movie_lens/100k-movies](https://www.tensorflow.org/datasets/catalog/movie_lens#movie_lens100k-movies):**
-
+```
  * Config description: This dataset contains data of approximately 1,682 movies rated in the 100k dataset.
  * Download size: 4.70 MiB
  * Dataset size: 150.35 KiB
