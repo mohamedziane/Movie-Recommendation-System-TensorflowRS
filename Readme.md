@@ -154,7 +154,7 @@ FeaturesDict({
 ```
 
 
-```
+
 **More information on TFRS**
 
  * TensorFlow Recommenders (TFRS) is a library for building recommender system models.
