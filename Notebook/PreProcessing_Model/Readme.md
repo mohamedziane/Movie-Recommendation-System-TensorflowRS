@@ -332,7 +332,7 @@ Those folowwing classes were re-configured to accomodate the new embedded design
 Let's now train a model that assigns positive weights to both tasks.
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/modesmetrics.png">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/modesmetrics.png">
 </p>
 
 ## 5. Future Work
