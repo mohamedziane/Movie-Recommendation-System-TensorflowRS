@@ -304,7 +304,7 @@ We get a less impressive RMSE coupled with a poor prediction too
 **Let's now train a model that assigns positive weights to both tasks.**
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/metricsintermediary.png">
+  <img width="1000" height="600" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/metricsintermediary.png">
 </p>
 
 **The joint model seems to provide an overall better prediction than the other independent models**
