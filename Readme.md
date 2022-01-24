@@ -144,6 +144,8 @@ TFRS can be classified as a relatively new package (several bugs have been repor
  * Auto-cached ([documentation](https://www.tensorflow.org/datasets/performances#auto-caching)): Yes
  * Features:
 ```
+
+```
 FeaturesDict({
               'movie_genres': Sequence(ClassLabel(shape=(), dtype=tf.int64, num_classes=21)),
               'movie_id': tf.string,
