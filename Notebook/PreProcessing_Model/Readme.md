@@ -279,7 +279,7 @@ Now, let's define our models as before, but instead of having a single task, we 
 **Depending on the weights we assign, the model will encode a different balance of the tasks. Let's start with a model that only considers ratings**
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/lossepochs.png">
+  <img width="1000" height="600" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/lossepochs.png">
 </p>
 
 As the model trains, the loss is falling and a set of top-k retrieval metrics is updated. 
