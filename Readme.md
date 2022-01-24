@@ -128,6 +128,7 @@ TFRS can be classified as a relatively new package (several bugs have been repor
                'user_zip_code': tf.string,
               })
  ```
+ ```
 **Example:**
 
 |bucketized_user_age	|movie_genres|	movie_id|	movie_title|	raw_user_age|	timestamp|	user_gender|	user_id	|user_occupation_label|	user_occupation_text	|user_rating	|user_zip_code|
@@ -137,6 +138,7 @@ TFRS can be classified as a relatively new package (several bugs have been repor
  ```
 
 **b) [movie_lens/100k-movies](https://www.tensorflow.org/datasets/catalog/movie_lens#movie_lens100k-movies):**
+
 ```
  * Config description: This dataset contains data of approximately 1,682 movies rated in the 100k dataset.
  * Download size: 4.70 MiB
