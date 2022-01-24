@@ -191,7 +191,7 @@ We set some hyper-parameters for the models.
 **DCN (stacked)**
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/graph_featureimportance.png">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/mohamedziane/Movie-Recommendation-System-TensorflowRS/main/images/graph_featureimportance.png">
 </p>
 
 From the above graph, we can visualize the weights from the cross network and see if it has successfully learned the important feature process. 
